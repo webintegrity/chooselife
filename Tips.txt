@@ -1,0 +1,36 @@
+discrete_features : {‘auto’, bool, array_like}, default ‘auto’
+Lasso, information_gain
+
+
+
+Random_Shuffle
+Array[shuffle].
+
+
+Train/Test/Validation
+SciKit - Cross Validation?
+
+At least 10% for validation.
+Cross-Validation.
+
+
+
+(Model the language)
+
+Mostly binary/categorial features
+
+Start with SciKitLearn - logistic regression. generalized linear models...
+Feature engineering - combined?c
+
+
+Elastic (something) 
+Trees. XGBoost
+FM/FFM - Factorization Machine
+
+Every pair has an embedding (FFM).
+Find implementation...
+
+
+
+
+
